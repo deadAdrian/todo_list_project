@@ -1,0 +1,20 @@
+$navbar-light-color: #989FCE;
+$navbar-light-hover-color: #fff;
+$navbar-light-toggler-border-color: #989FCE;
+$navbar-light-brand-color: #989FCE;
+$navbar-dark-brand-hover-color: #fff;
+
+$form-check-input-bg: #989FCE;
+$form-check-input-checked-color: #fff;
+$form-check-input-checked-bg-color: #272838;
+$form-check-input-checked-border-color: #989FCE;
+$form-check-input-focus-box-shadow: #272838;
+
+$modal-content-bg: #272838;
+$modal-content-color: #989FCE;
+$input-btn-focus-box-shadow: #989FCE;
+$btn-close-color: white;
+$primary: #989FCE;
+$secondary: #989FCE;
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
